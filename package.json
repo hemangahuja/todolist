@@ -1,0 +1,16 @@
+{
+  "name": "to-do-manager",
+  "version": "1.0.0",
+  "description": "To Do List Manager",
+  "main": "js1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hemang Ahuja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "sqlite3": "^5.0.2"
+  }
+}
